@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 _italic text_
 
 [demo link](https://www.google.com)
+
+2025 Git.Training.
