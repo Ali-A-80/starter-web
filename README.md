@@ -10,6 +10,6 @@ _italic text_
 
 [demo link](https://www.google.com)
 
-2025 Git.Training.
+2025 Git.Training. All rights reserved
 
 Please fork this repository
